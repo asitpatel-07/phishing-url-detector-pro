@@ -1,4 +1,7 @@
 # AI Phishing URL Detection System
+## 🌐 Live Demo
+
+[Open Live App](https://phishing-url-detector-pro.streamlit.app/)
 
 This project detects whether a user-entered URL is phishing or legitimate using Machine Learning.
 
